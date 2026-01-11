@@ -53,7 +53,7 @@ npm start
 
 **4.Setup Environment Variables**
 
-Create a .env file in the server directory and configure the required environment variables.
+Create a .env file in the backend directory and configure the required environment variables.
 
 **5.Run the application**
 
